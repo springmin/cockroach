@@ -150,7 +150,7 @@
     "jest-junit": "16.0.0",
     "jsdoc": "^3.4.2",
     "less-loader": "6.2.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "mocha": "^6.2.1",
     "moment-timezone-data-webpack-plugin": "^1.5.1",
     "nib": "^1.1.2",
